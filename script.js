@@ -5,6 +5,7 @@ let adress = ''
 
 search.addEventListener('click', () => {
     adress = prompt('Впишите адрес')
+    
 })
 
 navigate.addEventListener('click', () => {
